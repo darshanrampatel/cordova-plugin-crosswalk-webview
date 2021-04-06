@@ -4,7 +4,7 @@
 ## Installation
 
 ```
-cordova plugins add https://github.com/Arva/cordova-plugin-crosswalk-webview
+cordova plugins add https://github.com/darshanrampatel/cordova-plugin-crosswalk-webview
 ```
 
 Note that when you start with `cordova run android`, the app won't open automatically. This is due to a bug in cordova (as of now), of not inserting a space correctly when executing the `am` command. Open the app manually after deployment and it works fine.
